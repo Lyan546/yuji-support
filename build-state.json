@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "mode": "release",
+  "releaseInformationComplete": true,
+  "publicAccessVerified": false,
+  "missingConfiguration": [],
+  "informationSHA256": "dad7ec5e2badab131dc7d462d5de869c4619d9f57c3e9bae0ab6b3f8d60ffbc2",
+  "files": {
+    "index.html": "e041b28c0eee850f20f14e7da2bf3b8ab0eb02458ebde4b005fb76338560c04c",
+    "privacy.html": "30421ceef148cd7fecb794009a41fff8d10f52db674c03c282a92cf391bffc4c",
+    "support.html": "dc8f1c4abd3d58fe0f72281915334b1ebfdb9879d16076252ead72cf2362a85b",
+    "notices.html": "e22b2a3ed506f6d68d093e8e2aae24e4b7166d56e386781f36d9592efa26a684",
+    "styles.css": "11d4092eef44e762b0cfb5dffb00cd9d59a70fe9397e9de282c66bf21beb76a8"
+  }
+}
